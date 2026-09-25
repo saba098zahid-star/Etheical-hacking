@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqP-1YEmKXxX6X2nrdJoYHXSamkfuUyjP5hw&usqp=CAU" width="800" height="300">
+  <img src="https://pin.it/1xhjh5hgr" width="800" height="300">
 </p>
 <h1 align="center">Hi 👋, I'm SABA </h1>
 <h3 align="center">A passionate learner from PAKISTAN</h3>
