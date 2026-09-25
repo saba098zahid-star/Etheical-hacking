@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqP-1YEmKXxX6X2nrdJoYHXSamkfuUyjP5hw&usqp=CAU" width="800" height="300">
 </p>
-<h1 align="center">Hi 👋, I'm SABA ZAHID</h1>
+<h1 align="center">Hi 👋, I'm SABA </h1>
 <h3 align="center">A passionate frontend developer from PAKISTAN</h3>
 <img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOq6fkOHd4wQfxqRY65tygvOb3cqGYqqkQpQ&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djefry00&label=Profile%20views&color=0e75b6&style=flat" alt="djefry00" /> </p>
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **student@gmail.com**
 
-- ⚡ Fun fact **Why did the hacker go to jail? Because he couldn't resist the temptation to commit a phishing attack!**
+- ⚡ Fun fact **A hacker can sometimes get into an account just because of a weak password. 😳🔑**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
