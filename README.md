@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/474x/80/34/3e/80343e69d0c5c22e827523668f76ef0b.jpg?nii=t" width="800" height="300">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/042/193/976/small_2x/ai-generated-pastel-collage-of-sci-fi-elements-background-free-photo.jpg" width="800" height="300">
 </p>
 <h1 align="center">Hi 👋, I'm SABA </h1>
 <h3 align="center">A passionate learner from PAKISTAN</h3>
